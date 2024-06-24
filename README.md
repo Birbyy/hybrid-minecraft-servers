@@ -2,19 +2,27 @@
 
 ## Repos with inactive development are struck-through
 
-### 1.14.4
-
-[Kettle (Forge + Paper)](https://github.com/KettleFoundation/Kettle)
-
-### 1.12.2
-
-[Kettle (Forge + Paper)](https://github.com/KettleFoundation/Kettle)
+### 1.20.6
 
 [SpongePowered (Forge + Sponge)](https://www.spongepowered.org/)
 
-[LavaPowered (Forge + Spigot)](https://github.com/LavaPowered/Lava)
+### 1.19.4
 
-[AtomMC (Forge + CraftBukkit)](https://github.com/AtomMC/AtomMC)
+[SpongePowered (Forge + Sponge)](https://www.spongepowered.org/)
+
+### 1.16.5
+
+[SpongePowered (Forge + Sponge)](https://www.spongepowered.org/)
+
+### 1.12.2
+
+[~~Kettle (Forge + Paper)~~](https://github.com/KettleFoundation/Kettle)
+
+[SpongePowered (Forge + Sponge)](https://www.spongepowered.org/)
+
+[~~LavaPowered (Forge + Spigot)~~](https://github.com/LavaPowered/Lava)
+
+[~~AtomMC (Forge + CraftBukkit~~)](https://github.com/AtomMC/AtomMC)
 
 ### 1.12.1
 
